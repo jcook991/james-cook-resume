@@ -1,0 +1,62 @@
+body {
+    font: 16px Arial, Sans-Serif;
+    background: #717665;
+}
+
+.container {
+    margin-top: 20px;
+    margin-left: 275px;
+    margin-right: 275px;
+
+    padding: 10px 75px 10px 75px;
+
+    border-radius: 15px;
+    background-color: #e3ecca;
+    font-weight: normal;
+}
+
+#address {
+    margin-top: 10px;
+    margin-bottom:0px;
+}
+
+#contact {
+    margin:0px;
+}
+
+#profile {
+    max-width: 40%;
+    height: auto;
+    float: right;
+}
+
+h1 {
+    font-size: 60px;
+    margin-bottom: -25px;
+    font-weight: normal;
+}
+
+p {
+    font-weight: lighter;
+    font-size: 16px;
+    margin: 0px;
+}
+
+h3 {
+    font-size: 26px;
+    font-weight: normal;
+    margin-bottom: -10px;
+    text-decoration: underline;
+}
+
+h4 {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: -10px;
+    margin-top: 20px;
+}
+
+ul {
+    font-size: 16px;
+}
+
